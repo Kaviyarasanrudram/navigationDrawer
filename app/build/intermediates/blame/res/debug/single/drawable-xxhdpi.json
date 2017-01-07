@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_photo_library_black_24dp.png",
+        "source": "D:\\Kavi\\NavigationDrawer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photo_library_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png",
+        "source": "D:\\Kavi\\NavigationDrawer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png",
+        "source": "D:\\Kavi\\NavigationDrawer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_local_movies_black_24dp.png",
+        "source": "D:\\Kavi\\NavigationDrawer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_local_movies_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\Kavi\\NavigationDrawer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_black_24dp.png"
+    }
+]

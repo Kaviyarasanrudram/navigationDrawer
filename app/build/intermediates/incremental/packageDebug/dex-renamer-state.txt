@@ -1,0 +1,7 @@
+#Wed Dec 28 12:50:09 IST 2016
+base.0=D\:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_76a55c90400cd08a4344f66865b5995dba0832d3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cfdf8d0499bf9c866d8eb82303b9b754d6c7fdfd\\classes.dex
+base.1=D\:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cfdf8d0499bf9c866d8eb82303b9b754d6c7fdfd
+file.0=D\:\\Kavi\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_76a55c90400cd08a4344f66865b5995dba0832d3\\classes.dex

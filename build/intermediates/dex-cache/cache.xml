@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-beta1_9e730a6a0d60649c3317c570fd85abb6dc8c9533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0-beta1_43024ea496e31a4d9aebcd42bf3d9e1ae850785e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_8f5aade8774f291398825173d4a9cff52a25707e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="68106d6ac3f0dee9e3ce7d6c38307a57e334e8b6">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cfdf8d0499bf9c866d8eb82303b9b754d6c7fdfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6fd4eef51a55508bdf3f43f8ad96992e1da3850b">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0-beta1_7ebdd17b55af3020a274af92ccf06e49efdea3a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df167963807eb22efdd82e10211a8f1c0cf792a8">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_76a55c90400cd08a4344f66865b5995dba0832d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-beta1_297cbd441c4cf307aaf519f901949510a371e240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-beta1_70196813b03a9bcb6d7156fd0d3d736bd5b10e22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-beta1_484534116f82935df27265e1b938f767beb3f19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-beta1_f9dbd606f044519530a075fb0e3e8d2d6d3e1c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Kavi\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="D:\Kavi\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-beta1_38e1d3a5ec330adc06d82e287f5ac7ad3f84293f\classes.dex" />
+    </item>
+
+</items>
